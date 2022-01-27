@@ -2,7 +2,14 @@
 My TouchEgg configuration for Touchpad Gestures like Windows for KDE Plasma.
 
 ## Installation
-[Install touchegg first if you haven't already](https://github.com/JoseExposito/touchegg)   
+Install [touchegg](https://github.com/JoseExposito/touchegg) and [xdotool](https://www.semicomplete.com/projects/xdotool/) first if you haven't already:
+
+|E.g. on       | command line |
+|--------------|---------------|
+|`Arch`        | `sudo pacman -S touchegg xdotool`|
+|`Debian based`| `sudo apt-get install touchegg xdotool`|
+| `Fedora`     | `sudo dnf install touchegg xdotool`|
+then:
 ```shell
 git clone https://github.com/meawto/ToucheggKDE.git
 cd Touchegg*
