@@ -9,7 +9,9 @@ Install [touchegg](https://github.com/JoseExposito/touchegg) and [xdotool](https
 |`Arch`        | `sudo pacman -S touchegg xdotool`|
 |`Debian based`| `sudo apt-get install touchegg xdotool`|
 | `Fedora`     | `sudo dnf install touchegg xdotool`|
+
 then:
+
 ```shell
 git clone https://github.com/meawto/ToucheggKDE.git
 cd Touchegg*
