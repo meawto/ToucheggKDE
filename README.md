@@ -1,6 +1,10 @@
 # ToucheggKDE (meaw's version)
 My TouchEgg configuration for Touchpad Gestures like Windows for KDE Plasma.
 
+
+[![Watch the video](https://i.imgur.com/v3UoNrC.png)](https://www.youtube.com/watch?v=WDlkP3R0-YU)
+
+
 ## Installation
 Install [touchegg](https://github.com/JoseExposito/touchegg) and [xdotool](https://www.semicomplete.com/projects/xdotool/) first if you haven't already:
 
